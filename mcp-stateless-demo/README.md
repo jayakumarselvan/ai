@@ -79,6 +79,7 @@ python client.py
 The client asks about orders `1001` and `1002` and prints the answers.
 
 Result
+
 Order #1001 has already been shipped. It’s on its way and is expected to arrive on **November 8, 2026**.
 
 Your order (ID 1002) is currently **delayed**. The updated estimated delivery date is **November 12, 2026**. If you need any further assistance or would like to explore alternatives (e.g., expedited shipping, a replacement, or a refund), just let me know!
